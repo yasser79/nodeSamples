@@ -57,5 +57,6 @@ app.use(function(err, req, res, next) {
 });
 
 console.log("hello dear ...");
+console.log("hello dear 2 ...");
 
 module.exports = app;
